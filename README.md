@@ -1,6 +1,6 @@
 # EPIC 4: Escuela de Programación para Investigación Científica
 
-Welcome to the EPIC 4 repository! This project is part of the Escuela de Programación para Investigación Científica, where we explore the fascinating world of machine learning and artificial intelligence using Python.
+Welcome to my EPIC 4 repository! This project is part of the Escuela de Programación para Investigación Científica, where we explore the fascinating world of machine learning and artificial intelligence using Python.
 
 ## 🚀 Project Overview
 
@@ -20,14 +20,3 @@ All necessary datasets are included within this repository. Dive in and start ex
 
 To get started, ensure that you have the necessary dependencies correctly installed. This will allow you to run the project seamlessly and take full advantage of its features.
 
-## 🤝 Contributing
-
-We welcome contributions! If you're interested in collaborating or have suggestions for improvement, feel free to open an issue or submit a pull request.
-
-## 📜 License
-
-This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-
----
-
-Happy coding! Let's push the boundaries of scientific research together with EPIC 4!
